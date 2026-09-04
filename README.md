@@ -63,16 +63,17 @@ Revenue and pricing patterns across hotel star ratings, cities, and room types
 ---
 👥 Team & Roles
 Member	Role
-Nourhan Taha	Dataset & EDA
 
-Doaa Gamal	Data Cleaning & PowerPoint
+Nourhan Taha:	Dataset & EDA
 
-Malak Mohamed	Data Preprocessing
+Doaa Gamal:	Data Cleaning & PowerPoint
 
-Zeina Mohamed	Feature Engineering
+Malak Mohamed:	Data Preprocessing
 
-Beshoy Hanna	Data Modeling & Summarization
+Zeina ozoris :Feature Engineering
 
-Sohaib Barakat Visualization & Dashboard
+Beshoy Hanna:	Data Modeling & Summarization
+
+Sohaib Barakat: Visualization & Dashboard
 
 📂 Project Repository: NTI_Final_project
