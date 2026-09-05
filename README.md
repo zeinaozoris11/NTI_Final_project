@@ -1,4 +1,7 @@
 # NTI_Final_project
+
+https://drive.google.com/drive/folders/104qRApOJl1uJB0XsN6Cis5UXyQ-d1uAF?usp=sharing
+
 🏨 Hotel Booking Data Analysis
 A full end-to-end data analytics project on a hotel booking dataset of ~600,000 records, covering data cleaning, preprocessing, feature engineering, customer segmentation (RFM), data modeling, and an interactive Power BI dashboard.
 ---
